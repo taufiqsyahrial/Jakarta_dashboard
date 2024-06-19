@@ -1,0 +1,13 @@
+name: version2
+title: version2
+username:
+account: taufiqsyahrial
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4484021
+bundleId: 4914510
+url: https://taufiqsyahrial.shinyapps.io/version2/
+when: 1628743945.99062
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: geomtexttitip.R|Script order shiny app taufiq.txt

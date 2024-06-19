@@ -1,0 +1,6 @@
+prepare data
+prediction playground
+global
+ui
+server
+titip = run shiny app

@@ -1,0 +1,14 @@
+name: Indonesian_v3
+title: Indonesian_v3
+username:
+account: taufiqsyahrial
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8554359
+bundleId: 6952601
+url: https://taufiqsyahrial.shinyapps.io/Indonesian_v3/
+when: 1678724538.15623
+lastSyncTime: 1678724538.15623
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: geomtexttitip.R|Script order shiny app taufiq.txt

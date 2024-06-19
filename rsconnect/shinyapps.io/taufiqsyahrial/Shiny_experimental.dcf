@@ -1,0 +1,13 @@
+name: Shiny_experimental
+title: Shiny_experimental
+username:
+account: taufiqsyahrial
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3401255
+bundleId: 3989785
+url: https://taufiqsyahrial.shinyapps.io/Shiny_experimental/
+when: 1607993163.50707
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: global.R|merge_ui_server.R|prediction playground.R|prepare data.R|Shiny.R|titip.R|traffic app.R

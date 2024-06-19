@@ -1,0 +1,12 @@
+name: version4
+title: version4
+username:
+account: taufiqsyahrial
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4484244
+bundleId: 4914635
+url: https://taufiqsyahrial.shinyapps.io/version4/
+when: 1628748751.12518
+asMultiple: FALSE
+asStatic: FALSE
